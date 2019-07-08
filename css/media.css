@@ -1,0 +1,78 @@
+@media  screen and (max-width: 992px){
+    
+    .nav-top{
+margin-top: 40px;
+    overflow: hidden;
+    position:none;
+    right: 0;
+    left: 0;
+    padding-left: 0px;
+    padding-right:0px;
+        
+}
+    .menu_title{
+font-size: 50px;
+    color: white;
+    margin-top: 250px;
+    font-weight: 100;
+    font-family:sans-serif;
+    margin-bottom: 0;
+}
+.menu_title > span {
+color: #32A4FF;
+    font-size: 50px;
+    margin-top: 250px;
+    font-weight: 100;
+    font-family:sans-serif;
+    margin-bottom: 0;
+}
+.modal_title{
+color: #FB0035;
+    font-size: 29px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+    .hr_about{
+    margin-bottom: 0;
+}
+.content_pay{
+background-color:#fff;
+    box-shadow: 0 0 50px #000;
+    width: 100%;
+    padding-top: 0;
+padding-left: 0;
+    padding-right: 0;
+    
+}
+    .textpay{
+color: black;
+    font-size: 17px;
+    text-align:center;
+}
+    .text_frank{
+    margin-left:0;
+   margin-bottom: 0;
+}
+  .img_p_1{
+padding-right: 30px;
+padding-bottom: 0;
+      height: 280px
+}
+.img_p_2{
+padding-bottom: 0;
+    padding-top: 0;
+     height: 280px
+}
+    .btn_see{
+    border: 1px solid #32A4FF;
+width: 190px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: #32A4FF;
+    margin-top: 40px;
+ margin-bottom: 0;
+    box-shadow: 1px  10px 80px #9AE6FF;
+    overflow: hidden;
+}
+}
